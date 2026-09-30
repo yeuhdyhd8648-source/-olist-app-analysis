@@ -34,8 +34,7 @@ st.set_page_config(
 # ══════════════════════════════════════════════════════════════════════
 # 1) الثوابت والهوية البصرية
 # ══════════════════════════════════════════════════════════════════════
-DATA_FILENAME = "Olist_Master_Analysis.csv"
-
+DATA_FILENAME = "https://drive.google.com/uc?export=download&id=1jI6gagEWz93nGPqrBiD-H2y-tYbgUsRX"
 # الملف الأصلي بلا صف عناوين — الترتيب مستنتج من البيانات
 RAW_COLUMNS = [
     "order_id", "status", "purchase_ts", "delivered_ts", "cust_state", "cust_city",
